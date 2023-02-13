@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Travel Nest</string>
+
+    <!--to toggle the open close button
+        of the navigation drawer-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+    <string name="top_hotels">Top Hotels</string>
+    <string name="todo">TODO</string>
+    <string name="search_hotels">Search Hotels</string>
+    <string name="hotels">Hotels</string>
+    <string name="find_your">Find Your</string>
+    <string name="see_all">See All</string>
+    <string name="recent">Recent</string>
+    <string name="grand_bay_hotel">Grand Bay Hotel</string>
+    <string name="india">India</string>
+    <string name="from_25">from $25</string>
+    <string name="the_grand_fort_hotel_is_a_heritage_five_star_luxury_hotel_built_in_the_saracenic_revival_style_in_the_colaba_area_of_mumbai">The Grand Fort Hotel is a heritage, five-star, luxury hotel built in the Saracenic Revival style in the Colaba area of Mumbai.</string>
+
+</resources>
